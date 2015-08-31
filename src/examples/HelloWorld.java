@@ -8,7 +8,17 @@ public class HelloWorld
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("Another Line!");
-		int x = 3;
-	}
 
+		for(int x = 0 ; x<10;x++)
+		{
+			System.out.println(x);
+		}
+		for(;true;)
+		{
+			
+			
+		}
+		int x=3;
+		
+	}
 }
